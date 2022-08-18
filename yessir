@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("UrlHere",true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pwspew/try-t-hack/main/yessir",true))();
 --[[ Settings ]]
 local DefaultReachLimit = 33
 local IncreasedReachDistance = 100
