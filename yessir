@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("UrlHere",true))();
 --[[ Settings ]]
 local DefaultReachLimit = 33
 local IncreasedReachDistance = 100
